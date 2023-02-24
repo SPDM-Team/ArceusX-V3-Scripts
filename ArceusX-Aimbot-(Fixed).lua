@@ -3,9 +3,12 @@
 
 		Remade and optimized by Riky47#3355 for Arceus X
 		# spdmteam.com
+		
+		Edited and fixed by AZY#0348 for Fluxus / Hydrogen Compatibility
+                # Chillz and Maik (Thanks Maik, i finally got the actual script :D)
 ]]
 
-local Script_Title = `Arceus X <font color="rgb(255, 0, 0)">|</font> Aimbot`
+local Script_Title = "Arceus X <font color=\"rgb(255, 0, 0)\">|</font> Aimbot"
 
 -- Instances:
 local Arceus = Instance.new("ScreenGui")
