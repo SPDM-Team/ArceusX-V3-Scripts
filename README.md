@@ -2,6 +2,10 @@
 
 **Create your own Arceus X script with our UI Library in 3 steps!**
 
+⚠️ The script will run exclusively in Arceus X executor.
+
+---
+
 1. Include the library in a new variable `ArceusUI` by loading the following url via loadstring:
 ```lua
 local ArceusUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/SPDM-Team/ArceusX-V3-Scripts/main/ArceusUI.lua"))()
@@ -180,5 +184,5 @@ ArceusUI:Start()
 
 ---
 
-# Credits to:
+# All credits to:
 **Riky47#3355** for https://spdmteam.com/
