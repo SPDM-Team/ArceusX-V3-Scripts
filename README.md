@@ -1,6 +1,6 @@
 # Arceus UI
 
-**Create your own Arceus X script with our UI Library in 3 steps!**
+**Create your own exclusive Arceus X script with our UI Library in 3 steps!**
 
 ⚠️ The script will run exclusively in Arceus X executor.
 
@@ -133,7 +133,7 @@ end, myExtraValues)
 
 ---
 
-# 3. Manage and start the UI:
+# 3. Manage and display the UI:
 
 ### Getting the UI path with `:Parent()`
 
