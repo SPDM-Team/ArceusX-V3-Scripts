@@ -76,6 +76,7 @@ local myButton = ArceusUI:AddButton("MyButton", function(...)
     print("Pressed")
 end, myExtraValues)
 ```
+❗ Note that `myExtraValues` and `...` can be unused.
 
 ---
 
@@ -103,6 +104,7 @@ local myToggle = ArceusUI:AddToggle("MyToggle", function(myStatus, ...)
     print("Toggle status:", myStatus)
 end, myExtraValues)
 ```
+❗ Note that `myExtraValues` and `...` can be unused.
 
 ---
 
@@ -130,6 +132,7 @@ local myCombo = ArceusUI:AddComboBox("MyCombo", {"MyOption1", "MyOption2"}, func
     print("Combo selection:", myChoice)
 end, myExtraValues)
 ```
+❗ Note that `myExtraValues` and `...` can be unused.
 
 ---
 
