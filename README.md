@@ -54,6 +54,7 @@ ArceusUI:SetLogo("MyLogo.png", "https://mywebsite/myimage.png")
 ---
 
 ### Adding a Button with `:AddButton`
+`rich-text ✅`
 
 ⚠️ The position of the button depends on how many elements you have already added.
 
@@ -81,6 +82,7 @@ end, myExtraValues)
 ---
 
 ### Adding a Toggle button with `:AddToggle`
+`rich-text ✅`
 
 ⚠️ The position of the Toggle button depends on how many elements you have already added.
 
@@ -109,6 +111,7 @@ end, myExtraValues)
 ---
 
 ### Adding a Combo box with `:AddComboBox`
+`rich-text ✅`
 
 ⚠️ The position of the combo box depends on how many elements you have already added.
 
@@ -137,6 +140,7 @@ end, myExtraValues)
 ---
 
 ### Adding a Numeric Up-Down with `:AddUpDown`
+`rich-text ✅`
 
 ⚠️ The position of the up-down depends on how many elements you have already added.
 
